@@ -1,5 +1,4 @@
-## Hii there 👋  
-# **Aayushman Bhardwaj**
+# Hii there 👋  # **Aayushman Bhardwaj**
 
 
 ## 🌐 Socials:
