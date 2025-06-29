@@ -1,4 +1,6 @@
-# Hii there 👋  # ** this is Aayushman Bhardwaj**
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">I'm <strong>Aayushman Bhardwaj</strong></h2>
+
 
 
 ## 🌐 Socials:
